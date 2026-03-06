@@ -1,0 +1,30 @@
+{
+  "api": {
+    "connectionError": "サーバーに接続できません",
+    "timeout": "リクエストがタイムアウトしました。もう一度お試しください。",
+    "unauthorized": "認証が必要です",
+    "notFound": "コンテンツが見つかりません",
+    "serverError": "サーバーエラーです。後でもう一度お試しください。",
+    "unknown": "予期しないエラーが発生しました"
+  },
+
+  "validation": {
+    "minSelection": "少なくとも{{min}}個のアイテムを選択してください",
+    "maxSelection": "最大{{max}}個のアイテムまで選択できます",
+    "invalidInput": "無効な入力です",
+    "required": "このフィールドは必須です"
+  },
+
+  "network": {
+    "offline": "オフラインです。接続を確認してください。",
+    "slowConnection": "低速接続が検出されました",
+    "retry": "再試行"
+  },
+
+  "fallback": {
+    "title": "問題が発生しました",
+    "description": "この問題の修正に取り組んでいます",
+    "reload": "ページを再読み込み",
+    "goHome": "ホームへ戻る"
+  }
+}

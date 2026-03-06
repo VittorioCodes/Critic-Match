@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Passende Kritiker gefunden",
+    "subtitle": "Basierend auf {{count}} Spielauswahl",
+    "newSearch": "Neue Suche"
+  },
+  "analyzing": {
+    "title": "Kritiker werden verglichen",
+    "initializing": "Initialisierung...",
+    "fetchingReviews": "Rezensionen werden geladen...",
+    "calculatingScores": "Bewertungen werden berechnet...",
+    "findingSimilar": "Ähnliche Inhalte werden gesucht...",
+    "fetchingSimilarGames": "Ähnliche Spiele werden gesucht...",
+    "done": "Fertig!"
+  },
+  "error": {
+    "title": "Analyse fehlgeschlagen",
+    "description": "Rezensionsdaten konnten nicht abgerufen werden. Stelle sicher, dass dein API-Schlüssel in der .env-Datei konfiguriert ist.",
+    "goBack": "← Zurück"
+  },
+  "recommendations": {
+    "title": "Personalisierte Empfehlungen",
+    "subtitle": "Basierend auf {{count}} Auswahl",
+    "subtitle_plural": "Basierend auf {{count}} Auswahlen",
+    "newSearch": "+ Neue Suche",
+    "yourSelections": "Deine Auswahl",
+    "tabs": { "movies": "🎬 Filme ({{count}})", "series": "📺 Serien ({{count}})" },
+    "noResults": "Keine Empfehlungen gefunden",
+    "noResultsDesc": "Versuche andere Titel auszuwählen oder überprüfe deinen API-Schlüssel.",
+    "matchReasons": {
+      "veryStrong": "Sehr starke Übereinstimmung",
+      "veryStrongDetail": "Teilt Genre, Themen, Keywords und Besetzung mit {{title}}.",
+      "strong": "Starke Übereinstimmung",
+      "strongDetail": "Teilt Schlüsselthemen und Genre mit {{title}}{{others}}.",
+      "strongDetailOthers": " und anderen",
+      "direct": "Direkte Empfehlung",
+      "similar": "Ähnlicher Inhalt",
+      "directDetail": "Von TMDB direkt als ähnlich zu {{title}} empfohlen.",
+      "similarDetail": "Als ähnlicher Inhalt zu einer deiner Auswahlen gelistet.",
+      "thematic": "Thematische Übereinstimmung",
+      "thematicDetail": "Teilt Keywords, Genres oder Besetzungsmitglieder mit deiner Auswahl.",
+      "basedOn": "Basierend auf:"
+    }
+  },
+  "criticsList": {
+    "title": "Passende Kritiker",
+    "subtitle": "Nach Übereinstimmungswert sortiert",
+    "found": "{{count}} gefunden",
+    "noResults": "Keine passenden Kritiker gefunden",
+    "noResultsDesc": "Versuche, andere Inhalte oder mehr Elemente auszuwählen",
+    "rank": "#{{rank}}",
+    "reviewCount": "{{count}} Rezension",
+    "reviewCount_plural": "{{count}} Rezensionen",
+    "matchLabel": "Match",
+    "sortBy": "Sortieren nach",
+    "sortOptions": {
+      "matchScore": "Beste Übereinstimmung",
+      "averageScore": "Durchschnittswert",
+      "coverage": "Abdeckung",
+      "consistency": "Konsistenz"
+    }
+  },
+  "criticCard": {
+    "matchScore": "Übereinstimmung",
+    "viewReviews": "Rezensionen anzeigen",
+    "outlet": "Publikation: {{name}}"
+  },
+  "detailPanel": {
+    "score": { "label": "Übereinstimmungswert", "description": "Gesamtkompatibilität mit deinem Geschmack" },
+    "breakdown": {
+      "title": "Bewertungsaufschlüsselung",
+      "averageScore": { "label": "Durchschnittswert", "tooltip": "Gewichteter Durchschnitt der Bewertungen für deine Auswahl." },
+      "coverage": { "label": "Abdeckung", "tooltip": "Prozentsatz deiner Auswahl, die dieser Kritiker rezensiert hat." },
+      "consistency": { "label": "Konsistenz", "tooltip": "Wie konsistent ihre Bewertungen mit deinen Vorlieben sind." }
+    },
+    "tabs": { "yourSelections": "Deine Auswahl", "latestReviews": "Neueste Rezensionen" },
+    "yourSelections": { "title": "Bewertungen für deine Auswahl", "noReview": "Nicht rezensiert", "clickToRead": "Rezension lesen" },
+    "latestReviews": { "title": "Neueste Rezensionen", "loading": "Neueste Rezensionen werden geladen...", "noReviews": "Keine Rezensionen verfügbar", "readReview": "Lesen" }
+  },
+  "similarGames": {
+    "title": "Das könnte dir gefallen",
+    "subtitle": "Basierend auf deinen Genre-Vorlieben",
+    "loading": "Ähnliche Spiele werden gesucht...",
+    "noResults": "Keine ähnlichen Spiele gefunden",
+    "genreMatch": "Genre-Übereinstimmung",
+    "topRated": "Bestbewertet"
+  },
+  "reviewItem": { "score": "Bewertung: {{score}}", "date": "Veröffentlicht: {{date}}", "readMore": "Vollständige Rezension lesen", "external": "Externer Link" },
+  "filters": { "title": "Kritiker filtern", "minReviews": "Mindestrezensionen: {{count}}", "minScore": "Mindest-Übereinstimmung: {{score}}", "outlets": "Nach Publikation filtern", "apply": "Filter anwenden", "reset": "Filter zurücksetzen" },
+  "export": { "button": "Ergebnisse exportieren", "formats": { "csv": "Als CSV exportieren", "json": "Als JSON exportieren", "pdf": "Als PDF exportieren" } }
+}

@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "TasteMatch",
+    "tagline": "Entdecke Kritiker, die deinem Geschmack entsprechen",
+    "beta": "Beta"
+  },
+  
+  "nav": {
+    "home": "Startseite",
+    "games": "Spiele",
+    "movies": "Filme",
+    "series": "Serien",
+    "about": "Über uns",
+    "faq": "FAQ"
+  },
+  
+  "actions": {
+    "search": "Suchen",
+    "select": "Auswählen",
+    "deselect": "Abwählen",
+    "clear": "Löschen",
+    "clearAll": "Alle löschen",
+    "analyze": "Empfehlungen erhalten",
+    "back": "Zurück",
+    "newSearch": "Neue Suche",
+    "viewAll": "Alle anzeigen",
+    "readReview": "Rezension lesen",
+    "loading": "Wird geladen...",
+    "analyzing": "Wird analysiert..."
+  },
+  
+  "labels": {
+    "selected": "Ausgewählt",
+    "score": "Punktzahl",
+    "rating": "Bewertung",
+    "year": "Jahr",
+    "type": "Typ",
+    "critic": "Kritiker",
+    "outlet": "Publikation",
+    "review": "Rezension",
+    "match": "Übereinstimmung"
+  },
+  
+  "theme": {
+    "light": "Heller Modus",
+    "dark": "Dunkler Modus",
+    "toggle": "Design wechseln"
+  },
+  
+  "language": {
+    "select": "Sprache wählen",
+    "current": "Aktuelle Sprache"
+  },
+  
+  "footer": {
+    "poweredBy": "Unterstützt von",
+    "demoMode": "Demo-Modus aktiv",
+    "copyright": "© 2024 TasteMatch. Alle Rechte vorbehalten."
+  }
+}

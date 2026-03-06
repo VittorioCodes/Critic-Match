@@ -1,0 +1,82 @@
+{
+  "header": {
+    "title": "コンテンツを選択",
+    "subtitle": "始めるには2つ以上選択してください",
+    "selectionCount": "{{count}}件選択中",
+    "selectionCount_plural": "{{count}}件選択中"
+  },
+
+  "search": {
+    "placeholder": {
+      "games": "ゲームを検索...",
+      "movies": "映画を検索...",
+      "series": "シリーズを検索..."
+    },
+    "noResults": "結果が見つかりません",
+    "searching": "検索中...",
+    "tryAgain": "別のキーワードで試してください"
+  },
+
+  "filters": {
+    "title": "フィルター",
+    "yearFrom": "開始年",
+    "yearTo": "終了年",
+    "genre": "ジャンル",
+    "allGenres": "すべてのジャンル",
+    "reset": "リセット",
+    "apply": "適用",
+    "genreInfo": "{{count}}タイトルに{{genres}}ジャンルが見つかりました"
+  },
+
+  "tabs": {
+    "games": "ゲーム",
+    "movies": "映画",
+    "series": "シリーズ"
+  },
+
+  "content": {
+    "loading": "読み込み中...",
+    "noData": "コンテンツがありません",
+    "viewMore": "もっと見る",
+    "popular": "人気",
+    "trending": "トレンド",
+    "recent": "最新"
+  },
+
+  "card": {
+    "select": "選択",
+    "deselect": "選択解除",
+    "selected": "選択済み",
+    "rating": "評価：{{score}}",
+    "noScore": "評価なし",
+    "lowVotes": "{{count}}票のみ — スコアは信頼できない場合があります"
+  },
+
+  "sidebar": {
+    "title": "選択中",
+    "empty": "まだ選択なし",
+    "emptyDesc": "マッチングを開始するにはコンテンツを選択してください",
+    "clearAll": "すべてクリア",
+    "more": "+{{count}}件",
+    "categories": {
+      "games": "ゲーム ({{count}})",
+      "movies": "映画 ({{count}})",
+      "series": "シリーズ ({{count}})"
+    }
+  },
+
+  "analyze": {
+    "button": "批評家を探す",
+    "buttonDisabled": "2つ以上選択してください",
+    "minGames": "批評家マッチングにはゲームが1つ以上必要です",
+    "progress": "{{total}}件中{{current}}件を分析中..."
+  },
+
+  "warnings": {
+    "minSelection": "続けるには少なくとも{{min}}件選択してください",
+    "noGames": "批評家マッチングにはゲームの選択が必要です",
+    "apiError": "コンテンツを読み込めません。再試行してください。",
+    "gamesOnly": "批評家マッチングは現在ゲームのみ対応しています。2つ以上のゲームを選択してください。",
+    "maxGames": "最大{{max}}ゲームまで選択できます — この制限はAPI使用量を節約するためです"
+  }
+}

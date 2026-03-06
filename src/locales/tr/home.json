@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Zevkinize Uygun Eleştirmenleri Bulun",
+    "subtitle": "Tercihlerinizi analiz ediyor, size en uygun eleştirmenleri buluyoruz",
+    "description": "TasteMatch seçimlerinizi analiz eder ve oyunlar, filmler ve diziler genelinde tercihlerinizle örtüşen eleştirmenleri bulur."
+  },
+
+  "categories": {
+    "title": "Kategori Seçin",
+    "subtitle": "Hangi içerik türü için eşleştirme istiyorsunuz?",
+
+    "games": {
+      "title": "Oyunlar",
+      "description": "Oyun zevkinize uygun eleştirmenleri keşfedin",
+      "cta": "Oyunları Keşfet",
+      "icon": "🎮"
+    },
+
+    "movies": {
+      "title": "Filmler",
+      "description": "Kişiselleştirilmiş film önerileri alın",
+      "cta": "Filmleri Keşfet",
+      "icon": "🎬"
+    },
+
+    "series": {
+      "title": "Diziler",
+      "description": "Zevkinize uygun diziler keşfedin",
+      "cta": "Dizileri Keşfet",
+      "icon": "📺"
+    }
+  },
+
+  "howItWorks": {
+    "title": "Nasıl Çalışır?",
+    "steps": {
+      "1": {
+        "title": "İçerik Seçin",
+        "description": "Sevdiğiniz oyunları, filmleri veya dizileri seçin"
+      },
+      "2": {
+        "title": "Analiz Edin",
+        "description": "Algoritma seçimlerinizi analiz eder ve uyumlu eleştirmenleri bulur"
+      },
+      "3": {
+        "title": "Keşfedin",
+        "description": "Size en uygun eleştirmenleri keşfedin ve incelemelerini okuyun"
+      }
+    }
+  },
+
+  "features": {
+    "title": "Neden TasteMatch?",
+    "items": {
+      "intelligent": {
+        "title": "Akıllı Eşleştirme",
+        "description": "Gelişmiş algoritma puan paternlerini, kapsamı ve tutarlılığı değerlendirir"
+      },
+      "curated": {
+        "title": "Seçkin Veritabanı",
+        "description": "Güvenilir eleştirmenlerden birden fazla yayın organındaki binlerce inceleme"
+      },
+      "personalized": {
+        "title": "Kişisel Keşif",
+        "description": "Benzer düşünen eleştirmenleri bularak eleştiri dünyasında kendi sesinizi keşfedin"
+      }
+    }
+  },
+
+  "infoNotice": {
+    "text": "Eleştirmen eşleştirmesi şu an sadece <strong>oyunlar</strong> için çalışıyor. Filmler ve diziler için seçimlerinize göre kişiselleştirilmiş öneriler sunuyoruz."
+  },
+
+  "footer": {
+    "cacheInfo": "💾 Oyun verileri haftalık güncellenir | Performans için önbellekli"
+  }
+}

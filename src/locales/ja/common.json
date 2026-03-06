@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "CriticMatch",
+    "tagline": "あなたの好みに合った批評家を見つけましょう",
+    "beta": "ベータ版"
+  },
+  
+  "nav": {
+    "home": "ホーム",
+    "games": "ゲーム",
+    "movies": "映画",
+    "series": "シリーズ",
+    "about": "について",
+    "faq": "よくある質問"
+  },
+  
+  "actions": {
+    "search": "検索",
+    "select": "選択",
+    "deselect": "選択解除",
+    "clear": "クリア",
+    "clearAll": "すべてクリア",
+    "analyze": "批評家を見つける",
+    "back": "戻る",
+    "newSearch": "新しい検索",
+    "viewAll": "すべて表示",
+    "readReview": "レビューを読む",
+    "loading": "読み込み中...",
+    "analyzing": "分析中..."
+  },
+  
+  "labels": {
+    "selected": "選択済み",
+    "score": "スコア",
+    "rating": "評価",
+    "year": "年",
+    "type": "種類",
+    "critic": "批評家",
+    "outlet": "メディア",
+    "review": "レビュー",
+    "match": "マッチ"
+  },
+  
+  "theme": {
+    "light": "ライトモード",
+    "dark": "ダークモード",
+    "toggle": "テーマを切り替え"
+  },
+  
+  "language": {
+    "select": "言語を選択",
+    "current": "現在の言語"
+  },
+  
+  "footer": {
+    "poweredBy": "提供",
+    "demoMode": "デモモード有効",
+    "copyright": "© 2024 CriticMatch. 全著作権所有。"
+  }
+}

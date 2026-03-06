@@ -1,0 +1,82 @@
+{
+  "header": {
+    "title": "Select Content",
+    "subtitle": "Choose at least 2 items to get started",
+    "selectionCount": "{{count}} selected",
+    "selectionCount_plural": "{{count}} selected"
+  },
+
+  "search": {
+    "placeholder": {
+      "games": "Search games...",
+      "movies": "Search movies...",
+      "series": "Search series..."
+    },
+    "noResults": "No results found",
+    "searching": "Searching...",
+    "tryAgain": "Try a different search term"
+  },
+
+  "filters": {
+    "title": "Filters",
+    "yearFrom": "Year From",
+    "yearTo": "Year To",
+    "genre": "Genre",
+    "allGenres": "All Genres",
+    "reset": "Reset",
+    "apply": "Apply",
+    "genreInfo": "{{genres}} genres found in {{count}} titles"
+  },
+
+  "tabs": {
+    "games": "Games",
+    "movies": "Movies",
+    "series": "Series"
+  },
+
+  "content": {
+    "loading": "Loading...",
+    "noData": "No content available",
+    "viewMore": "View More",
+    "popular": "Popular",
+    "trending": "Trending",
+    "recent": "Recent"
+  },
+
+  "card": {
+    "select": "Select",
+    "deselect": "Click to deselect",
+    "selected": "Selected",
+    "rating": "Rating: {{score}}",
+    "noScore": "No score",
+    "lowVotes": "Only {{count}} votes — score may not be reliable"
+  },
+
+  "sidebar": {
+    "title": "Selected",
+    "empty": "No selections yet",
+    "emptyDesc": "Select content to begin matching",
+    "clearAll": "Clear All",
+    "more": "+{{count}} more",
+    "categories": {
+      "games": "Games ({{count}})",
+      "movies": "Movies ({{count}})",
+      "series": "Series ({{count}})"
+    }
+  },
+
+  "analyze": {
+    "button": "Get Recommendations",
+    "buttonDisabled": "Select at least 2 items",
+    "minGames": "At least one game required for critic matching",
+    "progress": "Analyzing {{current}} of {{total}}..."
+  },
+
+  "warnings": {
+    "minSelection": "Select at least {{min}} items to continue",
+    "noGames": "Critic matching requires at least one game selection",
+    "apiError": "Unable to load content. Please try again.",
+    "gamesOnly": "Critic matching currently works only for games. Please select at least 2 games.",
+    "maxGames": "Maximum {{max}} games can be selected — this limit preserves API usage"
+  }
+}

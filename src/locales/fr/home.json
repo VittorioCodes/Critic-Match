@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Trouvez des critiques qui vous correspondent",
+    "subtitle": "Nous analysons vos préférences et trouvons les critiques qui vous conviennent",
+    "description": "CriticMatch analyse vos sélections et trouve des critiques dont les avis correspondent à vos préférences en matière de jeux, films et séries."
+  },
+
+  "categories": {
+    "title": "Choisissez une catégorie",
+    "subtitle": "Pour quel type de contenu recherchez-vous des critiques ?",
+
+    "games": {
+      "title": "Jeux",
+      "description": "Découvrez des critiques qui partagent vos goûts de jeu",
+      "cta": "Découvrir les jeux",
+      "icon": "🎮"
+    },
+
+    "movies": {
+      "title": "Films",
+      "description": "Trouvez des critiques qui comprennent vos goûts cinématographiques",
+      "cta": "Découvrir les films",
+      "icon": "🎬"
+    },
+
+    "series": {
+      "title": "Séries",
+      "description": "Découvrez des critiques pour vos goûts de séries",
+      "cta": "Découvrir les séries",
+      "icon": "📺"
+    }
+  },
+
+  "howItWorks": {
+    "title": "Comment ça marche ?",
+    "steps": {
+      "1": {
+        "title": "Sélectionnez du contenu",
+        "description": "Choisissez vos jeux, films ou séries préférés"
+      },
+      "2": {
+        "title": "Analysez",
+        "description": "L'algorithme analyse vos choix et trouve des critiques correspondants"
+      },
+      "3": {
+        "title": "Découvrez",
+        "description": "Découvrez les critiques les plus adaptés et lisez leurs avis"
+      }
+    }
+  },
+
+  "features": {
+    "title": "Pourquoi CriticMatch ?",
+    "items": {
+      "intelligent": {
+        "title": "Correspondance intelligente",
+        "description": "Algorithme avancé prenant en compte les tendances de notation, la couverture et la cohérence"
+      },
+      "curated": {
+        "title": "Base de données sélectionnée",
+        "description": "Des milliers de critiques de journalistes de confiance issus de multiples publications"
+      },
+      "personalized": {
+        "title": "Découverte personnelle",
+        "description": "Trouvez des critiques partageant vos idées et découvrez votre propre voix dans la critique"
+      }
+    }
+  },
+
+  "infoNotice": {
+    "text": "La correspondance de critiques fonctionne actuellement uniquement pour les <strong>jeux</strong>. Pour les films et les séries, nous proposons des recommandations personnalisées basées sur vos sélections."
+  },
+
+  "footer": {
+    "cacheInfo": "💾 Les données de jeux sont actualisées chaque semaine | Mis en cache pour les performances"
+  }
+}

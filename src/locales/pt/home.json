@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Encontre críticos que combinam com você",
+    "subtitle": "Analisamos suas preferências e encontramos os críticos certos para você",
+    "description": "CriticMatch analisa suas seleções e encontra críticos cujas avaliações se alinham com suas preferências em jogos, filmes e séries."
+  },
+
+  "categories": {
+    "title": "Escolha uma categoria",
+    "subtitle": "Para que tipo de conteúdo você procura críticos?",
+
+    "games": {
+      "title": "Jogos",
+      "description": "Descubra críticos que compartilham seu gosto por jogos",
+      "cta": "Explorar jogos",
+      "icon": "🎮"
+    },
+
+    "movies": {
+      "title": "Filmes",
+      "description": "Encontre críticos que entendem seu gosto cinematográfico",
+      "cta": "Explorar filmes",
+      "icon": "🎬"
+    },
+
+    "series": {
+      "title": "Séries",
+      "description": "Descubra críticos para seu gosto em séries",
+      "cta": "Explorar séries",
+      "icon": "📺"
+    }
+  },
+
+  "howItWorks": {
+    "title": "Como funciona?",
+    "steps": {
+      "1": {
+        "title": "Selecione conteúdo",
+        "description": "Escolha seus jogos, filmes ou séries favoritos"
+      },
+      "2": {
+        "title": "Analise",
+        "description": "O algoritmo analisa suas escolhas e encontra críticos compatíveis"
+      },
+      "3": {
+        "title": "Descubra",
+        "description": "Descubra os críticos mais adequados e leia suas análises"
+      }
+    }
+  },
+
+  "features": {
+    "title": "Por que CriticMatch?",
+    "items": {
+      "intelligent": {
+        "title": "Correspondência inteligente",
+        "description": "Algoritmo avançado que considera padrões de pontuação, cobertura e consistência"
+      },
+      "curated": {
+        "title": "Base de dados curada",
+        "description": "Milhares de análises de críticos confiáveis em múltiplas publicações"
+      },
+      "personalized": {
+        "title": "Descoberta pessoal",
+        "description": "Encontre críticos com ideias semelhantes e descubra sua própria voz na crítica"
+      }
+    }
+  },
+
+  "infoNotice": {
+    "text": "A correspondência de críticos funciona atualmente apenas para <strong>jogos</strong>. Para filmes e séries, oferecemos recomendações personalizadas com base em suas seleções."
+  },
+
+  "footer": {
+    "cacheInfo": "💾 Dados de jogos atualizados semanalmente | Em cache para melhor desempenho"
+  }
+}

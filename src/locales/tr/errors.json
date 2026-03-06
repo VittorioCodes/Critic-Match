@@ -1,0 +1,30 @@
+{
+  "api": {
+    "connectionError": "Sunucuya bağlanılamıyor",
+    "timeout": "İstek zaman aşımına uğradı. Lütfen tekrar deneyin.",
+    "unauthorized": "Kimlik doğrulaması gerekli",
+    "notFound": "İçerik bulunamadı",
+    "serverError": "Sunucu hatası. Lütfen daha sonra tekrar deneyin.",
+    "unknown": "Beklenmedik bir hata oluştu"
+  },
+
+  "validation": {
+    "minSelection": "Lütfen en az {{min}} öğe seçin",
+    "maxSelection": "Maksimum {{max}} öğeye izin verilir",
+    "invalidInput": "Geçersiz giriş",
+    "required": "Bu alan zorunludur"
+  },
+
+  "network": {
+    "offline": "Çevrimdışısınız. Lütfen bağlantınızı kontrol edin.",
+    "slowConnection": "Yavaş bağlantı algılandı",
+    "retry": "Tekrar Dene"
+  },
+
+  "fallback": {
+    "title": "Bir şeyler ters gitti",
+    "description": "Bu sorunu çözmeye çalışıyoruz",
+    "reload": "Sayfayı Yenile",
+    "goHome": "Ana Sayfaya Git"
+  }
+}

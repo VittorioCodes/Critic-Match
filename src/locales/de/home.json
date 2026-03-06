@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Finde Kritiker, die zu dir passen",
+    "subtitle": "Wir analysieren deine Vorlieben und finden die passenden Kritiker für dich",
+    "description": "CriticMatch analysiert deine Auswahl und findet Kritiker, deren Bewertungen mit deinen Vorlieben übereinstimmen – für Spiele, Filme und Serien."
+  },
+
+  "categories": {
+    "title": "Kategorie wählen",
+    "subtitle": "Für welchen Content-Typ suchst du Kritiker?",
+
+    "games": {
+      "title": "Spiele",
+      "description": "Entdecke Kritiker, die deinen Spielegeschmack teilen",
+      "cta": "Spiele entdecken",
+      "icon": "🎮"
+    },
+
+    "movies": {
+      "title": "Filme",
+      "description": "Finde Kritiker, die deinen Filmgeschmack verstehen",
+      "cta": "Filme entdecken",
+      "icon": "🎬"
+    },
+
+    "series": {
+      "title": "Serien",
+      "description": "Entdecke Kritiker für deinen Serien-Geschmack",
+      "cta": "Serien entdecken",
+      "icon": "📺"
+    }
+  },
+
+  "howItWorks": {
+    "title": "Wie funktioniert es?",
+    "steps": {
+      "1": {
+        "title": "Content auswählen",
+        "description": "Wähle deine Lieblingsspiele, -filme oder -serien aus"
+      },
+      "2": {
+        "title": "Analysieren",
+        "description": "Der Algorithmus analysiert deine Auswahl und findet passende Kritiker"
+      },
+      "3": {
+        "title": "Entdecken",
+        "description": "Entdecke die am besten passenden Kritiker und lies ihre Rezensionen"
+      }
+    }
+  },
+
+  "features": {
+    "title": "Warum CriticMatch?",
+    "items": {
+      "intelligent": {
+        "title": "Intelligentes Matching",
+        "description": "Fortgeschrittener Algorithmus berücksichtigt Bewertungsmuster, Abdeckung und Konsistenz"
+      },
+      "curated": {
+        "title": "Kuratierte Datenbank",
+        "description": "Tausende von Rezensionen vertrauenswürdiger Kritiker aus verschiedenen Publikationen"
+      },
+      "personalized": {
+        "title": "Persönliche Entdeckung",
+        "description": "Finde gleichgesinnte Kritiker und entdecke deine eigene Stimme in der Kritik"
+      }
+    }
+  },
+
+  "infoNotice": {
+    "text": "Kritiker-Matching funktioniert derzeit nur für <strong>Spiele</strong>. Für Filme und Serien gibt es personalisierte Empfehlungen basierend auf deiner Auswahl."
+  },
+
+  "footer": {
+    "cacheInfo": "💾 Spieldaten werden wöchentlich aktualisiert | Für Performance gecacht"
+  }
+}

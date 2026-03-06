@@ -1,0 +1,82 @@
+{
+  "header": {
+    "title": "İçerik Seç",
+    "subtitle": "Başlamak için en az 2 öğe seçin",
+    "selectionCount": "{{count}} seçili",
+    "selectionCount_plural": "{{count}} seçili"
+  },
+
+  "search": {
+    "placeholder": {
+      "games": "Oyun ara...",
+      "movies": "Film ara...",
+      "series": "Dizi ara..."
+    },
+    "noResults": "Sonuç bulunamadı",
+    "searching": "Aranıyor...",
+    "tryAgain": "Farklı bir arama terimi deneyin"
+  },
+
+  "filters": {
+    "title": "Filtreler",
+    "yearFrom": "Başlangıç Yılı",
+    "yearTo": "Bitiş Yılı",
+    "genre": "Tür",
+    "allGenres": "Tüm Türler",
+    "reset": "Sıfırla",
+    "apply": "Uygula",
+    "genreInfo": "{{count}} başlıkta {{genres}} tür bulundu"
+  },
+
+  "tabs": {
+    "games": "Oyunlar",
+    "movies": "Filmler",
+    "series": "Diziler"
+  },
+
+  "content": {
+    "loading": "Yükleniyor...",
+    "noData": "İçerik mevcut değil",
+    "viewMore": "Daha Fazla Gör",
+    "popular": "Popüler",
+    "trending": "Trend",
+    "recent": "Son Eklenenler"
+  },
+
+  "card": {
+    "select": "Seç",
+    "deselect": "Seçimi kaldır",
+    "selected": "Seçildi",
+    "rating": "Puan: {{score}}",
+    "noScore": "Puan yok",
+    "lowVotes": "Yalnızca {{count}} oy — puan güvenilir olmayabilir"
+  },
+
+  "sidebar": {
+    "title": "Seçilenler",
+    "empty": "Henüz seçim yok",
+    "emptyDesc": "Önerileri almaya başlamak için içerik seçin",
+    "clearAll": "Tümünü Temizle",
+    "more": "+{{count}} daha",
+    "categories": {
+      "games": "Oyunlar ({{count}})",
+      "movies": "Filmler ({{count}})",
+      "series": "Diziler ({{count}})"
+    }
+  },
+
+  "analyze": {
+    "button": "Önerileri Al",
+    "buttonDisabled": "En az 2 öğe seçin",
+    "minGames": "Önerileri almak için en az bir oyun gerekli",
+    "progress": "{{total}} öğeden {{current}} tanesi analiz ediliyor..."
+  },
+
+  "warnings": {
+    "minSelection": "Devam etmek için en az {{min}} öğe seçin",
+    "noGames": "Önerileri almak için en az bir oyun seçimi gereklidir",
+    "apiError": "İçerik yüklenemiyor. Lütfen tekrar deneyin.",
+    "gamesOnly": "Önerileri almak şu an sadece oyunlar için çalışıyor. En az 2 oyun seçin.",
+    "maxGames": "Maksimum {{max}} oyun seçilebilir — bu limit API kullanımını korur"
+  }
+}

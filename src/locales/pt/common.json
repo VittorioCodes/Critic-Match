@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "TasteMatch",
+    "tagline": "Descubra críticos que combinam com seu gosto",
+    "beta": "Beta"
+  },
+  
+  "nav": {
+    "home": "Início",
+    "games": "Jogos",
+    "movies": "Filmes",
+    "series": "Séries",
+    "about": "Sobre",
+    "faq": "Perguntas frequentes"
+  },
+  
+  "actions": {
+    "search": "Pesquisar",
+    "select": "Selecionar",
+    "deselect": "Desselecionar",
+    "clear": "Limpar",
+    "clearAll": "Limpar tudo",
+    "analyze": "Obter recomendações",
+    "back": "Voltar",
+    "newSearch": "Nova pesquisa",
+    "viewAll": "Ver tudo",
+    "readReview": "Ler análise",
+    "loading": "Carregando...",
+    "analyzing": "Analisando..."
+  },
+  
+  "labels": {
+    "selected": "Selecionado",
+    "score": "Pontuação",
+    "rating": "Avaliação",
+    "year": "Ano",
+    "type": "Tipo",
+    "critic": "Crítico",
+    "outlet": "Publicação",
+    "review": "Análise",
+    "match": "Correspondência"
+  },
+  
+  "theme": {
+    "light": "Modo claro",
+    "dark": "Modo escuro",
+    "toggle": "Alternar tema"
+  },
+  
+  "language": {
+    "select": "Selecionar idioma",
+    "current": "Idioma atual"
+  },
+  
+  "footer": {
+    "poweredBy": "Desenvolvido por",
+    "demoMode": "Modo demo ativo",
+    "copyright": "© 2024 TasteMatch. Todos os direitos reservados."
+  }
+}

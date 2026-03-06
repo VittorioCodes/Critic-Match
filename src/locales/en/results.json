@@ -1,0 +1,147 @@
+{
+  "header": {
+    "title": "Your Matched Critics",
+    "subtitle": "Based on {{count}} game selections",
+    "newSearch": "Start New Search"
+  },
+
+  "analyzing": {
+    "title": "Matching Critics",
+    "initializing": "Initializing...",
+    "fetchingReviews": "Fetching reviews...",
+    "calculatingScores": "Calculating scores...",
+    "findingSimilar": "Finding similar content...",
+    "fetchingSimilarGames": "Finding similar games...",
+    "done": "Done!"
+  },
+
+  "error": {
+    "title": "Analysis Failed",
+    "description": "Could not fetch review data. Make sure your API key is configured in the .env file.",
+    "goBack": "← Go Back"
+  },
+
+  "recommendations": {
+    "title": "Personalized Recommendations",
+    "subtitle": "Based on {{count}} selection",
+    "subtitle_plural": "Based on {{count}} selections",
+    "newSearch": "+ New Search",
+    "yourSelections": "Your Selections",
+    "tabs": {
+      "movies": "🎬 Movies ({{count}})",
+      "series": "📺 Series ({{count}})"
+    },
+    "noResults": "No recommendations found",
+    "noResultsDesc": "Try selecting different titles or check your API key.",
+    "matchReasons": {
+      "veryStrong": "Very strong match",
+      "veryStrongDetail": "Shares genre, themes, keywords, and cast with {{title}}.",
+      "strong": "Strong match",
+      "strongDetail": "Shares key themes and genre with {{title}}{{others}}.",
+      "strongDetailOthers": " and others",
+      "direct": "Direct recommendation",
+      "similar": "Similar content",
+      "directDetail": "Directly recommended by TMDB as similar to {{title}}.",
+      "similarDetail": "Listed as similar content to one of your selections.",
+      "thematic": "Thematic match",
+      "thematicDetail": "Shares keywords, genres, or cast members with your selections.",
+      "basedOn": "Based on:"
+    }
+  },
+
+  "criticsList": {
+    "title": "Matched Critics",
+    "subtitle": "Sorted by match score",
+    "found": "{{count}} found",
+    "noResults": "No matching critics found",
+    "noResultsDesc": "Try selecting different content or more items",
+    "rank": "#{{rank}}",
+    "reviewCount": "{{count}} review",
+    "reviewCount_plural": "{{count}} reviews",
+    "matchLabel": "match",
+    "sortBy": "Sort by",
+    "sortOptions": {
+      "matchScore": "Overall Match",
+      "averageScore": "Average Score",
+      "coverage": "Coverage",
+      "consistency": "Consistency"
+    }
+  },
+
+  "criticCard": {
+    "matchScore": "Match Score",
+    "viewReviews": "View Reviews",
+    "outlet": "Outlet: {{name}}"
+  },
+
+  "detailPanel": {
+    "score": {
+      "label": "Match Score",
+      "description": "Overall compatibility with your taste"
+    },
+    "breakdown": {
+      "title": "Score Breakdown",
+      "averageScore": {
+        "label": "Average Score",
+        "tooltip": "Weighted average of critic's scores for your selections. Higher scores get bonus weight."
+      },
+      "coverage": {
+        "label": "Coverage",
+        "tooltip": "Percentage of your selections this critic has reviewed. 100% means they've reviewed everything."
+      },
+      "consistency": {
+        "label": "Consistency",
+        "tooltip": "How consistent their scoring is with your preferences. Higher = more aligned taste."
+      }
+    },
+    "tabs": {
+      "yourSelections": "Your Selections",
+      "latestReviews": "Latest Reviews"
+    },
+    "yourSelections": {
+      "title": "Scores for Your Selections",
+      "noReview": "Not reviewed",
+      "clickToRead": "Click to read review"
+    },
+    "latestReviews": {
+      "title": "Latest Reviews",
+      "loading": "Loading latest reviews...",
+      "noReviews": "No reviews available",
+      "readReview": "Read"
+    }
+  },
+
+  "similarGames": {
+    "title": "You Might Also Like",
+    "subtitle": "Based on your genre preferences",
+    "loading": "Finding similar games...",
+    "noResults": "No similar games found",
+    "genreMatch": "Genre match",
+    "topRated": "Top rated"
+  },
+
+  "reviewItem": {
+    "score": "Score: {{score}}",
+    "date": "Published: {{date}}",
+    "readMore": "Read Full Review",
+    "external": "External Link"
+  },
+
+  "filters": {
+    "title": "Filter Critics",
+    "minReviews": "Minimum Reviews: {{count}}",
+    "minScore": "Minimum Match Score: {{score}}",
+    "outlets": "Filter by Outlet",
+    "apply": "Apply Filters",
+    "reset": "Reset Filters"
+  },
+
+  "export": {
+    "button": "Export Results",
+    "formats": {
+      "csv": "Export as CSV",
+      "json": "Export as JSON",
+      "pdf": "Export as PDF"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+/* ============================================
+   CRITICMATCH - EDITORIAL DESIGN SYSTEM
+   ============================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;900&family=Inter:wght@300;400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Colors - Light Mode */
+  --color-paper: #FDFCFA;
+  --color-canvas: #F8F6F3;
+  --color-ash: #E8E4DF;
+  --color-crimson: #C84C3C;
+  --color-crimson-dark: #A63F31;
+  --color-ink: #2B2825;
+  --color-graphite: #4A4641;
+  --color-slate: #79746E;
+  --color-ash-dark: #B8B3AC;
+  
+  /* Fonts */
+  --font-editorial: 'Playfair Display', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-ui: 'DM Sans', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  
+  /* Spacing */
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  
+  /* Shadows */
+  --shadow-sm: 0 2px 4px rgba(43, 40, 37, 0.06);
+  --shadow-md: 0 4px 8px rgba(43, 40, 37, 0.08);
+  
+  /* Semantic */
+  --bg-primary: var(--color-paper);
+  --text-primary: var(--color-ink);
+  --border-subtle: var(--color-ash-dark);
+  --accent-primary: var(--color-crimson);
+}
+
+/* Dark Mode */
+[data-theme="dark"] {
+  --color-cinema: #0F0E0D;
+  --color-velvet: #1A1816;
+  --color-pearl: #F5F3F0;
+  --color-amber: #E8A87C;
+  --color-smoke: #3D3935;
+  
+  --bg-primary: var(--color-cinema);
+  --text-primary: var(--color-pearl);
+  --border-subtle: var(--color-smoke);
+  --accent-primary: var(--color-amber);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { 
+  font-family: var(--font-body);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}

@@ -1,0 +1,68 @@
+{
+  "header": { "title": "Critiques trouvés", "subtitle": "Basé sur {{count}} sélection de jeux", "newSearch": "Nouvelle recherche" },
+  "analyzing": {
+    "title": "Recherche de critiques",
+    "initializing": "Initialisation...",
+    "fetchingReviews": "Chargement des critiques...",
+    "calculatingScores": "Calcul des scores...",
+    "findingSimilar": "Recherche de contenus similaires...",
+    "fetchingSimilarGames": "Recherche de jeux similaires...",
+    "done": "Terminé !"
+  },
+  "error": { "title": "Échec de l'analyse", "description": "Impossible de récupérer les données de critiques. Assurez-vous que votre clé API est configurée dans le fichier .env.", "goBack": "← Retour" },
+  "recommendations": {
+    "title": "Recommandations personnalisées",
+    "subtitle": "Basé sur {{count}} sélection",
+    "subtitle_plural": "Basé sur {{count}} sélections",
+    "newSearch": "+ Nouvelle recherche",
+    "yourSelections": "Vos sélections",
+    "tabs": { "movies": "🎬 Films ({{count}})", "series": "📺 Séries ({{count}})" },
+    "noResults": "Aucune recommandation trouvée",
+    "noResultsDesc": "Essayez de sélectionner d'autres titres ou vérifiez votre clé API.",
+    "matchReasons": {
+      "veryStrong": "Très forte correspondance",
+      "veryStrongDetail": "Partage le genre, les thèmes, les mots-clés et le casting avec {{title}}.",
+      "strong": "Forte correspondance",
+      "strongDetail": "Partage les thèmes clés et le genre avec {{title}}{{others}}.",
+      "strongDetailOthers": " et d'autres",
+      "direct": "Recommandation directe",
+      "similar": "Contenu similaire",
+      "directDetail": "Recommandé directement par TMDB comme similaire à {{title}}.",
+      "similarDetail": "Listé comme contenu similaire à l'une de vos sélections.",
+      "thematic": "Correspondance thématique",
+      "thematicDetail": "Partage des mots-clés, genres ou membres du casting avec vos sélections.",
+      "basedOn": "Basé sur :"
+    }
+  },
+  "criticsList": {
+    "title": "Critiques correspondants", "subtitle": "Triés par score de correspondance", "found": "{{count}} trouvé",
+    "noResults": "Aucun critique correspondant trouvé", "noResultsDesc": "Essayez de sélectionner différents contenus ou plus d'éléments",
+    "rank": "#{{rank}}", "reviewCount": "{{count}} critique", "reviewCount_plural": "{{count}} critiques", "matchLabel": "match",
+    "sortBy": "Trier par",
+    "sortOptions": { "matchScore": "Meilleure correspondance", "averageScore": "Score moyen", "coverage": "Couverture", "consistency": "Cohérence" }
+  },
+  "criticCard": { "matchScore": "Correspondance", "viewReviews": "Voir les critiques", "outlet": "Publication : {{name}}" },
+  "detailPanel": {
+    "score": { "label": "Score de correspondance", "description": "Compatibilité globale avec vos goûts" },
+    "breakdown": {
+      "title": "Répartition du score",
+      "averageScore": { "label": "Score moyen", "tooltip": "Moyenne pondérée des scores du critique pour vos sélections." },
+      "coverage": { "label": "Couverture", "tooltip": "Pourcentage de vos sélections que ce critique a examinées." },
+      "consistency": { "label": "Cohérence", "tooltip": "Niveau de cohérence de leurs notes avec vos préférences." }
+    },
+    "tabs": { "yourSelections": "Vos sélections", "latestReviews": "Dernières critiques" },
+    "yourSelections": { "title": "Notes pour vos sélections", "noReview": "Non examiné", "clickToRead": "Lire la critique" },
+    "latestReviews": { "title": "Dernières critiques", "loading": "Chargement des dernières critiques...", "noReviews": "Aucune critique disponible", "readReview": "Lire" }
+  },
+  "similarGames": {
+    "title": "Vous pourriez aussi aimer",
+    "subtitle": "Basé sur vos préférences de genre",
+    "loading": "Recherche de jeux similaires...",
+    "noResults": "Aucun jeu similaire trouvé",
+    "genreMatch": "Correspondance de genre",
+    "topRated": "Mieux noté"
+  },
+  "reviewItem": { "score": "Score : {{score}}", "date": "Publié le : {{date}}", "readMore": "Lire la critique complète", "external": "Lien externe" },
+  "filters": { "title": "Filtrer les critiques", "minReviews": "Critiques minimum : {{count}}", "minScore": "Score min : {{score}}", "outlets": "Filtrer par publication", "apply": "Appliquer", "reset": "Réinitialiser" },
+  "export": { "button": "Exporter les résultats", "formats": { "csv": "Exporter en CSV", "json": "Exporter en JSON", "pdf": "Exporter en PDF" } }
+}

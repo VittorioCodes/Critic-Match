@@ -1,0 +1,147 @@
+{
+  "header": {
+    "title": "Eşleşen Eleştirmenler",
+    "subtitle": "{{count}} oyun seçimine göre",
+    "newSearch": "Yeni Arama"
+  },
+
+  "analyzing": {
+    "title": "Eleştirmenler Eşleştiriliyor",
+    "initializing": "Başlatılıyor...",
+    "fetchingReviews": "İncelemeler getiriliyor...",
+    "calculatingScores": "Puanlar hesaplanıyor...",
+    "findingSimilar": "Benzer içerikler aranıyor...",
+    "fetchingSimilarGames": "Benzer oyunlar aranıyor...",
+    "done": "Tamamlandı!"
+  },
+
+  "error": {
+    "title": "Analiz Başarısız",
+    "description": "İnceleme verisi alınamadı. .env dosyanızda API anahtarınızın yapılandırıldığından emin olun.",
+    "goBack": "← Geri Git"
+  },
+
+  "recommendations": {
+    "title": "Kişiselleştirilmiş Öneriler",
+    "subtitle": "{{count}} seçime göre",
+    "subtitle_plural": "{{count}} seçime göre",
+    "newSearch": "+ Yeni Arama",
+    "yourSelections": "Seçimleriniz",
+    "tabs": {
+      "movies": "🎬 Filmler ({{count}})",
+      "series": "📺 Diziler ({{count}})"
+    },
+    "noResults": "Öneri bulunamadı",
+    "noResultsDesc": "Farklı başlıklar seçmeyi deneyin veya API anahtarınızı kontrol edin.",
+    "matchReasons": {
+      "veryStrong": "Çok güçlü eşleşme",
+      "veryStrongDetail": "{{title}} ile tür, tema, anahtar kelime ve oyuncu kadrosu paylaşıyor.",
+      "strong": "Güçlü eşleşme",
+      "strongDetail": "{{title}}{{others}} ile temel temalar ve türü paylaşıyor.",
+      "strongDetailOthers": " ve diğerleri",
+      "direct": "Doğrudan öneri",
+      "similar": "Benzer içerik",
+      "directDetail": "TMDB tarafından {{title}} ile benzer olarak doğrudan önerildi.",
+      "similarDetail": "Seçimlerinizden birine benzer içerik olarak listelendi.",
+      "thematic": "Tematik eşleşme",
+      "thematicDetail": "Seçimlerinizle anahtar kelimeler, türler veya oyuncu kadrosu paylaşıyor.",
+      "basedOn": "Şuna göre:"
+    }
+  },
+
+  "criticsList": {
+    "title": "Eşleşen Eleştirmenler",
+    "subtitle": "Uyum puanına göre sıralanmış",
+    "found": "{{count}} bulundu",
+    "noResults": "Eşleşen eleştirmen bulunamadı",
+    "noResultsDesc": "Farklı içerikler seçmeyi veya daha fazla öğe eklemeyi deneyin",
+    "rank": "#{{rank}}",
+    "reviewCount": "{{count}} inceleme",
+    "reviewCount_plural": "{{count}} inceleme",
+    "matchLabel": "uyum",
+    "sortBy": "Sıralama",
+    "sortOptions": {
+      "matchScore": "Genel Uyum",
+      "averageScore": "Ortalama Puan",
+      "coverage": "Kapsam",
+      "consistency": "Tutarlılık"
+    }
+  },
+
+  "criticCard": {
+    "matchScore": "Uyum Puanı",
+    "viewReviews": "İncelemeleri Gör",
+    "outlet": "Yayın: {{name}}"
+  },
+
+  "detailPanel": {
+    "score": {
+      "label": "Uyum Puanı",
+      "description": "Zevkinizle genel uyumluluk"
+    },
+    "breakdown": {
+      "title": "Puan Dağılımı",
+      "averageScore": {
+        "label": "Ortalama Puan",
+        "tooltip": "Eleştirmenin seçimlerinize verdiği puanların ağırlıklı ortalaması. Yüksek puanlar ekstra ağırlık alır."
+      },
+      "coverage": {
+        "label": "Kapsam",
+        "tooltip": "Bu eleştirmenin seçimlerinizden kaçını incelediğinin yüzdesi. %100 = hepsini incelemiş."
+      },
+      "consistency": {
+        "label": "Tutarlılık",
+        "tooltip": "Puanlamanın tercihlerinizle ne kadar tutarlı olduğu. Yüksek = daha uyumlu zevk."
+      }
+    },
+    "tabs": {
+      "yourSelections": "Seçimleriniz",
+      "latestReviews": "Son İncelemeler"
+    },
+    "yourSelections": {
+      "title": "Seçimlerinize Verilen Puanlar",
+      "noReview": "İnceleme yok",
+      "clickToRead": "İncelemeyi okuyun"
+    },
+    "latestReviews": {
+      "title": "Son İncelemeler",
+      "loading": "Son incelemeler yükleniyor...",
+      "noReviews": "İnceleme bulunamadı",
+      "readReview": "Oku"
+    }
+  },
+
+  "similarGames": {
+    "title": "Bunları da Beğenebilirsiniz",
+    "subtitle": "Tür tercihlerinize göre",
+    "loading": "Benzer oyunlar aranıyor...",
+    "noResults": "Benzer oyun bulunamadı",
+    "genreMatch": "Tür eşleşmesi",
+    "topRated": "En yüksek puanlı"
+  },
+
+  "reviewItem": {
+    "score": "Puan: {{score}}",
+    "date": "Yayın: {{date}}",
+    "readMore": "Tam İncelemeyi Oku",
+    "external": "Dış Bağlantı"
+  },
+
+  "filters": {
+    "title": "Eleştirmenleri Filtrele",
+    "minReviews": "Minimum İnceleme: {{count}}",
+    "minScore": "Minimum Uyum Puanı: {{score}}",
+    "outlets": "Yayına Göre Filtrele",
+    "apply": "Filtreleri Uygula",
+    "reset": "Filtreleri Sıfırla"
+  },
+
+  "export": {
+    "button": "Sonuçları Dışa Aktar",
+    "formats": {
+      "csv": "CSV olarak dışa aktar",
+      "json": "JSON olarak dışa aktar",
+      "pdf": "PDF olarak dışa aktar"
+    }
+  }
+}

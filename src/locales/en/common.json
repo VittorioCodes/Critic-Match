@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "TasteMatch",
+    "tagline": "Discover Critics That Match Your Taste",
+    "beta": "Beta"
+  },
+  
+  "nav": {
+    "home": "Home",
+    "games": "Games",
+    "movies": "Movies",
+    "series": "Series",
+    "about": "About",
+    "faq": "FAQ"
+  },
+  
+  "actions": {
+    "search": "Search",
+    "select": "Select",
+    "deselect": "Deselect",
+    "clear": "Clear",
+    "clearAll": "Clear All",
+    "analyze": "Get Recommendations",
+    "back": "Back",
+    "newSearch": "New Search",
+    "viewAll": "View All",
+    "readReview": "Read Review",
+    "loading": "Loading...",
+    "analyzing": "Analyzing..."
+  },
+  
+  "labels": {
+    "selected": "Selected",
+    "score": "Score",
+    "rating": "Rating",
+    "year": "Year",
+    "type": "Type",
+    "critic": "Critic",
+    "outlet": "Outlet",
+    "review": "Review",
+    "match": "Match"
+  },
+  
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "toggle": "Toggle Theme"
+  },
+  
+  "language": {
+    "select": "Select Language",
+    "current": "Current Language"
+  },
+  
+  "footer": {
+    "poweredBy": "Powered by",
+    "demoMode": "Demo Mode Active",
+    "copyright": "© 2024 TasteMatch. All rights reserved."
+  }
+}

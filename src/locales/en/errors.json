@@ -1,0 +1,30 @@
+{
+  "api": {
+    "connectionError": "Unable to connect to server",
+    "timeout": "Request timed out. Please try again.",
+    "unauthorized": "Authentication required",
+    "notFound": "Content not found",
+    "serverError": "Server error. Please try again later.",
+    "unknown": "An unexpected error occurred"
+  },
+  
+  "validation": {
+    "minSelection": "Please select at least {{min}} items",
+    "maxSelection": "Maximum {{max}} items allowed",
+    "invalidInput": "Invalid input",
+    "required": "This field is required"
+  },
+  
+  "network": {
+    "offline": "You are offline. Please check your connection.",
+    "slowConnection": "Slow connection detected",
+    "retry": "Retry"
+  },
+  
+  "fallback": {
+    "title": "Something went wrong",
+    "description": "We're working on fixing this issue",
+    "reload": "Reload Page",
+    "goHome": "Go to Home"
+  }
+}

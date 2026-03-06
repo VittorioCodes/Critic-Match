@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "TasteMatch",
+    "tagline": "Descubre críticos que coinciden con tus gustos",
+    "beta": "Beta"
+  },
+  
+  "nav": {
+    "home": "Inicio",
+    "games": "Juegos",
+    "movies": "Películas",
+    "series": "Series",
+    "about": "Acerca de",
+    "faq": "Preguntas frecuentes"
+  },
+  
+  "actions": {
+    "search": "Buscar",
+    "select": "Seleccionar",
+    "deselect": "Deseleccionar",
+    "clear": "Borrar",
+    "clearAll": "Borrar todo",
+    "analyze": "Obtener recomendaciones",
+    "back": "Atrás",
+    "newSearch": "Nueva búsqueda",
+    "viewAll": "Ver todo",
+    "readReview": "Leer reseña",
+    "loading": "Cargando...",
+    "analyzing": "Analizando..."
+  },
+  
+  "labels": {
+    "selected": "Seleccionado",
+    "score": "Puntuación",
+    "rating": "Valoración",
+    "year": "Año",
+    "type": "Tipo",
+    "critic": "Crítico",
+    "outlet": "Publicación",
+    "review": "Reseña",
+    "match": "Coincidencia"
+  },
+  
+  "theme": {
+    "light": "Modo claro",
+    "dark": "Modo oscuro",
+    "toggle": "Cambiar tema"
+  },
+  
+  "language": {
+    "select": "Seleccionar idioma",
+    "current": "Idioma actual"
+  },
+  
+  "footer": {
+    "poweredBy": "Desarrollado por",
+    "demoMode": "Modo demo activo",
+    "copyright": "© 2024 TasteMatch. Todos los derechos reservados."
+  }
+}

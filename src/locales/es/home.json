@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Encuentra críticos que se ajusten a ti",
+    "subtitle": "Analizamos tus preferencias y encontramos los críticos adecuados para ti",
+    "description": "CriticMatch analiza tus selecciones y encuentra críticos cuyas reseñas se alinean con tus preferencias en juegos, películas y series."
+  },
+
+  "categories": {
+    "title": "Elige una categoría",
+    "subtitle": "¿Para qué tipo de contenido buscas críticos?",
+
+    "games": {
+      "title": "Juegos",
+      "description": "Descubre críticos que comparten tus gustos de juegos",
+      "cta": "Descubrir juegos",
+      "icon": "🎮"
+    },
+
+    "movies": {
+      "title": "Películas",
+      "description": "Encuentra críticos que entienden tus gustos cinematográficos",
+      "cta": "Descubrir películas",
+      "icon": "🎬"
+    },
+
+    "series": {
+      "title": "Series",
+      "description": "Descubre críticos para tus gustos de series",
+      "cta": "Descubrir series",
+      "icon": "📺"
+    }
+  },
+
+  "howItWorks": {
+    "title": "¿Cómo funciona?",
+    "steps": {
+      "1": {
+        "title": "Selecciona contenido",
+        "description": "Elige tus juegos, películas o series favoritas"
+      },
+      "2": {
+        "title": "Analiza",
+        "description": "El algoritmo analiza tus elecciones y encuentra críticos compatibles"
+      },
+      "3": {
+        "title": "Descubre",
+        "description": "Descubre los críticos más adecuados y lee sus reseñas"
+      }
+    }
+  },
+
+  "features": {
+    "title": "¿Por qué CriticMatch?",
+    "items": {
+      "intelligent": {
+        "title": "Emparejamiento inteligente",
+        "description": "Algoritmo avanzado que considera patrones de puntuación, cobertura y consistencia"
+      },
+      "curated": {
+        "title": "Base de datos curada",
+        "description": "Miles de reseñas de críticos de confianza en múltiples publicaciones"
+      },
+      "personalized": {
+        "title": "Descubrimiento personal",
+        "description": "Encuentra críticos con ideas afines y descubre tu propia voz en la crítica"
+      }
+    }
+  },
+
+  "infoNotice": {
+    "text": "El emparejamiento de críticos actualmente funciona solo para <strong>juegos</strong>. Para películas y series ofrecemos recomendaciones personalizadas basadas en tus selecciones."
+  },
+
+  "footer": {
+    "cacheInfo": "💾 Los datos de juegos se actualizan semanalmente | En caché para mayor rendimiento"
+  }
+}

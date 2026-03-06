@@ -1,0 +1,82 @@
+{
+  "header": {
+    "title": "Selecionar conteúdo",
+    "subtitle": "Escolha pelo menos 2 itens para começar",
+    "selectionCount": "{{count}} selecionado",
+    "selectionCount_plural": "{{count}} selecionados"
+  },
+
+  "search": {
+    "placeholder": {
+      "games": "Pesquisar jogos...",
+      "movies": "Pesquisar filmes...",
+      "series": "Pesquisar séries..."
+    },
+    "noResults": "Nenhum resultado encontrado",
+    "searching": "Pesquisando...",
+    "tryAgain": "Tente outro termo de pesquisa"
+  },
+
+  "filters": {
+    "title": "Filtros",
+    "yearFrom": "Ano de",
+    "yearTo": "Ano até",
+    "genre": "Gênero",
+    "allGenres": "Todos os gêneros",
+    "reset": "Redefinir",
+    "apply": "Aplicar",
+    "genreInfo": "{{genres}} gêneros encontrados em {{count}} títulos"
+  },
+
+  "tabs": {
+    "games": "Jogos",
+    "movies": "Filmes",
+    "series": "Séries"
+  },
+
+  "content": {
+    "loading": "Carregando...",
+    "noData": "Nenhum conteúdo disponível",
+    "viewMore": "Ver mais",
+    "popular": "Popular",
+    "trending": "Em alta",
+    "recent": "Recente"
+  },
+
+  "card": {
+    "select": "Selecionar",
+    "deselect": "Desselecionar",
+    "selected": "Selecionado",
+    "rating": "Nota: {{score}}",
+    "noScore": "Sem nota",
+    "lowVotes": "Apenas {{count}} votos — a nota pode não ser confiável"
+  },
+
+  "sidebar": {
+    "title": "Selecionados",
+    "empty": "Nenhuma seleção",
+    "emptyDesc": "Selecione conteúdo para obter recomendações",
+    "clearAll": "Limpar tudo",
+    "more": "+{{count}} mais",
+    "categories": {
+      "games": "Jogos ({{count}})",
+      "movies": "Filmes ({{count}})",
+      "series": "Séries ({{count}})"
+    }
+  },
+
+  "analyze": {
+    "button": "Obter recomendações",
+    "buttonDisabled": "Selecione pelo menos 2 itens",
+    "minGames": "Pelo menos um jogo é necessário para obter recomendações",
+    "progress": "Analisando {{current}} de {{total}}..."
+  },
+
+  "warnings": {
+    "minSelection": "Selecione pelo menos {{min}} itens para continuar",
+    "noGames": "Obter recomendações requer pelo menos um jogo selecionado",
+    "apiError": "Não foi possível carregar o conteúdo. Tente novamente.",
+    "gamesOnly": "Obter recomendações atualmente funciona apenas para jogos. Selecione pelo menos 2 jogos.",
+    "maxGames": "Máximo de {{max}} jogos podem ser selecionados — este limite preserva o uso da API"
+  }
+}

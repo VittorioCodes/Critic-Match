@@ -1,0 +1,30 @@
+{
+  "api": {
+    "connectionError": "Impossible de se connecter au serveur",
+    "timeout": "Délai dépassé. Veuillez réessayer.",
+    "unauthorized": "Authentification requise",
+    "notFound": "Contenu introuvable",
+    "serverError": "Erreur serveur. Veuillez réessayer plus tard.",
+    "unknown": "Une erreur inattendue s'est produite"
+  },
+
+  "validation": {
+    "minSelection": "Veuillez sélectionner au moins {{min}} éléments",
+    "maxSelection": "Maximum {{max}} éléments autorisés",
+    "invalidInput": "Entrée invalide",
+    "required": "Ce champ est obligatoire"
+  },
+
+  "network": {
+    "offline": "Vous êtes hors ligne. Veuillez vérifier votre connexion.",
+    "slowConnection": "Connexion lente détectée",
+    "retry": "Réessayer"
+  },
+
+  "fallback": {
+    "title": "Quelque chose s'est mal passé",
+    "description": "Nous travaillons à résoudre ce problème",
+    "reload": "Recharger la page",
+    "goHome": "Aller à l'accueil"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "TasteMatch",
+    "tagline": "Zevklerinize Uygun Eleştirmenleri Keşfedin",
+    "beta": "Beta"
+  },
+  
+  "nav": {
+    "home": "Ana Sayfa",
+    "games": "Oyunlar",
+    "movies": "Filmler",
+    "series": "Diziler",
+    "about": "Hakkında",
+    "faq": "SSS"
+  },
+  
+  "actions": {
+    "search": "Ara",
+    "select": "Seç",
+    "deselect": "Seçimi Kaldır",
+    "clear": "Temizle",
+    "clearAll": "Tümünü Temizle",
+    "analyze": "Önerileri Al",
+    "back": "Geri",
+    "newSearch": "Yeni Arama",
+    "viewAll": "Tümünü Gör",
+    "readReview": "İncelemeyi Oku",
+    "loading": "Yükleniyor...",
+    "analyzing": "Analiz Ediliyor..."
+  },
+  
+  "labels": {
+    "selected": "Seçili",
+    "score": "Puan",
+    "rating": "Değerlendirme",
+    "year": "Yıl",
+    "type": "Tür",
+    "critic": "Eleştirmen",
+    "outlet": "Yayın",
+    "review": "İnceleme",
+    "match": "Eşleşme"
+  },
+  
+  "theme": {
+    "light": "Açık Mod",
+    "dark": "Koyu Mod",
+    "toggle": "Temayı Değiştir"
+  },
+  
+  "language": {
+    "select": "Dil Seçin",
+    "current": "Mevcut Dil"
+  },
+  
+  "footer": {
+    "poweredBy": "Tarafından desteklenmektedir",
+    "demoMode": "Demo Modu Aktif",
+    "copyright": "© 2024 TasteMatch. Tüm hakları saklıdır."
+  }
+}

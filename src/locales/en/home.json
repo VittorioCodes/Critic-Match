@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Find Critics Who Understand Your Taste",
+    "subtitle": "Select content you love, discover critics who share your perspective",
+    "description": "TasteMatch analyzes your selections and finds critics whose reviews align with your preferences across games, movies, and series."
+  },
+  
+  "categories": {
+    "title": "Choose Your Medium",
+    "subtitle": "Select what you want to match",
+    
+    "games": {
+      "title": "Games",
+      "description": "Match with game critics and reviewers",
+      "cta": "Browse Games",
+      "icon": "🎮"
+    },
+    
+    "movies": {
+      "title": "Movies",
+      "description": "Get personalized movie recommendations",
+      "cta": "Browse Movies",
+      "icon": "🎬"
+    },
+    
+    "series": {
+      "title": "Series",
+      "description": "Discover shows tailored to your taste",
+      "cta": "Browse Series",
+      "icon": "📺"
+    }
+  },
+  
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": {
+      "1": {
+        "title": "Select Content",
+        "description": "Choose games, movies, or series you love"
+      },
+      "2": {
+        "title": "Analyze Preferences",
+        "description": "Our algorithm finds patterns in your taste"
+      },
+      "3": {
+        "title": "Match Critics",
+        "description": "Discover critics who share your perspective"
+      }
+    }
+  },
+  
+  "features": {
+    "title": "Why CriticMatch?",
+    "items": {
+      "intelligent": {
+        "title": "Intelligent Matching",
+        "description": "Advanced algorithm considers score patterns, coverage, and consistency"
+      },
+      "curated": {
+        "title": "Curated Database",
+        "description": "Thousands of reviews from trusted critics across multiple outlets"
+      },
+      "personalized": {
+        "title": "Personal Discovery",
+        "description": "Find your voice in criticism by matching with like-minded reviewers"
+      }
+    }
+  },
+  
+  "infoNotice": {
+    "text": "Critic matching currently works for <strong>games</strong> only. Movies and series provide personalized recommendations based on your selections."
+  },
+  
+  "footer": {
+    "cacheInfo": "💾 Game data refreshes weekly | Cache'd for performance"
+  }
+}
